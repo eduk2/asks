@@ -125,3 +125,17 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 });
+
+
+const gameDescriptionEsElement = document.getElementById('gameDescriptionEs');
+const gameDescriptionEnElement = document.getElementById('gameDescriptionEn');
+
+function updateGameDescription() {
+    const selectedLanguage = languageSelect.value;
+
+    gameDescriptionEsElement.style.display = selectedLanguage === 'es' ? 'block' : 'none';
+    gameDescriptionEnElement.style.display = selectedLanguage === 'en' ? 'block' : 'none';
+}
+
+languageSelect.addEventListener('change', updateGameDescription);
+updateGameDescription(); // Inicializa la descripción del juego

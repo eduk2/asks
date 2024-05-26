@@ -10,14 +10,44 @@
 
 <body>
     <div class="container">
-        <button id="askButton">ASK</button>
         <select id="languageSelect">
             <option value="es">Español</option>
             <option value="en">English</option>
         </select>
         <input type="number" id="questionCount" value="3" min="1" />
+        <button id="askButton">ASK</button>
         <div id="categorySelectorsContainer"></div>
         <div id="questionsContainer"></div>
+    </div>   
+    <div id="description">
+        <div id="gameDescriptionEs" class="gameDescription" style="display: none;">
+            <strong>Instrucciones</strong>:
+            Cada jugador necesita un móvil.<br />
+            Elige el idioma y cuántas preguntas quieres (por defecto 3), luego pulsa "ASK".<br />
+            Verás varias preguntas de diferentes temas.<br />
+            <strong>Ronda 1</strong>: Todos leen en voz alta sus preguntas.<br />Escoge 1 y respóndela en voz alta.<br />
+            <strong>Ronda 2</strong>: Los demás eligen las categorías para ti.<br />Pulsa ASK<br />Lee la pregunta en voz
+            alta<br />Escoge 1 y respóndela.<br />
+            <strong>Ronda 3</strong>: Elige tus categorías favoritas.<br />Pulsa ASK<br />Lee las preguntas en voz
+            alta<br />Escoge 1 y respóndela en voz alta.<br />
+            <strong>Opciones</strong>: Puedes ajustar el número de categorías.
+        </div>
+
+        <div id="gameDescriptionEn" class="gameDescription" style="display: none;">
+            <strong>Instructions</strong>:
+            Each player needs a mobile device.<br />
+            Choose the language and how many questions you want (default is 3), then press "ASK".<br />
+            You will see several questions from different topics.<br />
+            <strong>Round 1</strong>: Everyone reads their questions aloud.<br />Choose 1 and answer it aloud.<br />
+            <strong>Round 2</strong>: Others choose the categories for you.<br />Press ASK<br />Read the question
+            aloud<br />Choose 1 and answer it.<br />
+            <strong>Round 3</strong>: Pick your favorite categories.<br />Press ASK<br />Read the questions aloud<br />Choose 1
+            and answer it aloud.<br />
+            <strong>Options</strong>: You can adjust the number of categories.
+        </div>
+
+
+
     </div>
     <script src="script.js"></script>
 </body>
