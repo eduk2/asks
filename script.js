@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     const category = selectedCategories[index];
                     const questions = data.split('\n').filter(line => line.trim()).map(line => {
                         const [es, en] = line.split('|');
-                        return { es, en };
+                        return { es: es.trim(), en: en.trim() };
                     });
                     questionsByCategory[category] = questions;
                 });
@@ -87,7 +87,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 questionsContainer.innerHTML = '';
                 randomQuestions.forEach(question => {
-                    const questionText = selectedLanguage === 'es' ? question.es : question.en;
+                    let questionText;
+                    if (selectedLanguage === 'es') {
+                        questionText = question.es || question.en;  // Mostrar en español si está disponible, sino en inglés
+                    } else {
+                        questionText = question.en || question.es;  // Mostrar en inglés si está disponible, sino en español
+                    }
                     const questionElement = document.createElement('div');
                     questionElement.className = 'question';
                     questionElement.textContent = questionText;
