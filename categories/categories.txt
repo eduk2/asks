@@ -1,3 +1,9 @@
-General|General
-Comida|Food
-Personal|Personal
+Autoconocimiento|Self-knowledge
+Autoevaluación|Self-assessment
+Vínculos|Relationships
+Aspiraciones|Aspirations
+Trabajo|Work
+Experiencias|Experiences
+Filosofía|Philosophy
+Creatividad|Creativity
+Entretenimiento|Entertainment
