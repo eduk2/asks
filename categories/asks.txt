@@ -1,0 +1,5 @@
+¿Cuál es tu color favorito?|What is your favorite color?
+¿Cómo te llamas?|What is your name?
+¿Cuál es tu comida favorita?|What is your favorite food?
+¿Dónde naciste?|Where were you born?
+¿Cuál es tu hobby?|What is your hobby?

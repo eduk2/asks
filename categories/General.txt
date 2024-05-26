@@ -1,0 +1,4 @@
+Pregunta1 general|Question1 general
+Pregunta2 general|Question2 general
+Pregunta3 general|Question3 general
+Pregunta4 general|Question4 general

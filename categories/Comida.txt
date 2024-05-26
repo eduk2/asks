@@ -1,0 +1,4 @@
+Pregunta1 comida|Question1 food
+Pregunta2 comida|
+Pregunta3 comida|
+Pregunta4 comida|Question4 food
