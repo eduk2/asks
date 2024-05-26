@@ -1,4 +1,0 @@
-Pregunta1 personal|Question1 personal
-Pregunta2 personal|Question2 personal
-Pregunta3 personal|Question3 personal
-Pregunta4 personal|Question4 personal
