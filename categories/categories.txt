@@ -6,3 +6,11 @@ Experiencias|Experiences
 Filosofía|Philosophy
 Creatividad|Creativity
 Entretenimiento|Entertainment
+Niños Sueños y Aspiraciones|Children Dreams and Aspirations
+Niños Amistades y Familia|Children Friends and Family
+Niños Creatividad y Juegos|Children Creativity and Games
+Niños Diversión y Entretenimiento|Children Fun and Entertainment
+Niños Curiosidad y Aprendizaje|Children Curiosity and Learning
+Niños Animales y Naturaleza|Children Animals and Nature
+Niños Valores y Sentimientos|Children Values and Feelings
+Niños Imaginación y Fantasía|Children Imagination and Fantasy

@@ -7,6 +7,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     let categories = [];
 
+    // Función para normalizar cadenas (eliminar tildes y convertir a minúsculas)
+    function normalizeString(str) {
+        return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/ /g, '-');
+    }
+
     // Cargar categorías y generar opciones del select
     function loadCategories() {
         return fetch('categories/categories.txt')
@@ -63,9 +68,10 @@ document.addEventListener('DOMContentLoaded', function () {
         const n = parseInt(questionCountInput.value, 10);
         const selectedCategories = Array.from(categorySelectorsContainer.children).map(select => select.value);
 
-        const questionPromises = selectedCategories.map(category =>
-            fetch(`categories/${category}.txt`).then(response => response.text())
-        );
+        const questionPromises = selectedCategories.map(category => {
+            const normalizedCategory = normalizeString(category);
+            return fetch(`categories/${normalizedCategory}.txt`).then(response => response.text());
+        });
 
         Promise.all(questionPromises)
             .then(results => {
@@ -124,18 +130,17 @@ document.addEventListener('DOMContentLoaded', function () {
             select.value = currentCategory;
         });
     });
+
+    const gameDescriptionEsElement = document.getElementById('gameDescriptionEs');
+    const gameDescriptionEnElement = document.getElementById('gameDescriptionEn');
+
+    function updateGameDescription() {
+        const selectedLanguage = languageSelect.value;
+
+        gameDescriptionEsElement.style.display = selectedLanguage === 'es' ? 'block' : 'none';
+        gameDescriptionEnElement.style.display = selectedLanguage === 'en' ? 'block' : 'none';
+    }
+
+    languageSelect.addEventListener('change', updateGameDescription);
+    updateGameDescription(); // Inicializa la descripción del juego
 });
-
-
-const gameDescriptionEsElement = document.getElementById('gameDescriptionEs');
-const gameDescriptionEnElement = document.getElementById('gameDescriptionEn');
-
-function updateGameDescription() {
-    const selectedLanguage = languageSelect.value;
-
-    gameDescriptionEsElement.style.display = selectedLanguage === 'es' ? 'block' : 'none';
-    gameDescriptionEnElement.style.display = selectedLanguage === 'en' ? 'block' : 'none';
-}
-
-languageSelect.addEventListener('change', updateGameDescription);
-updateGameDescription(); // Inicializa la descripción del juego
