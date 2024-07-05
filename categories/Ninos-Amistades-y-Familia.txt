@@ -3,3 +3,18 @@
 ¿Cómo describirías a tu mejor amigo? | How would you describe your best friend?
 ¿Qué cosa especial haces para ayudar a tu familia? | What special thing do you do to help your family?
 ¿Qué te hace sentir feliz cuando estás con tu familia? | What makes you feel happy when you are with your family?
+¿Qué es lo que más te gusta hacer con tus amigos? | What do you like to do most with your friends?
+¿Qué es lo más divertido que has hecho con tu familia? | What is the most fun thing you have done with your family?
+¿Cómo describirías a tu mejor amigo? | How would you describe your best friend?
+¿Qué cosa especial haces para ayudar a tu familia? | What special thing do you do to help your family?
+¿Qué te hace sentir feliz cuando estás con tu familia? | What makes you feel happy when you are with your family?
+¿Cuál es la actividad favorita de tus amigos para hacer juntos?| What is your friends' favorite activity to do together?
+¿Cuál fue la última aventura divertida que tuviste con tu familia?| What was the last fun adventure you had with your family?
+¿Qué características únicas tiene tu mejor amigo que lo hacen especial?| What unique qualities does your best friend have that make them special?
+¿Cuál es la forma más común en que ayudas a tus familiares?| What is the most common way you help your family?
+¿Qué momentos específicos te hacen sentir más conectado y feliz con tu familia?| What specific moments make you feel most connected and happy with your family?
+¿Cuál es tu lugar favorito para ir con tus amigos y por qué?| What is your favorite place to go with your friends and why?
+¿Qué juegos o actividades familiares disfrutas más durante las vacaciones?| What games or family activities do you enjoy most during holidays?
+¿Qué tipo de consejos o apoyo sueles buscar en tu mejor amigo?| What kind of advice or support do you usually seek from your best friend?
+¿Cuál es la mejor lección que has aprendido de tu familia y cómo te ha impactado?| What is the best lesson you have learned from your family and how has it impacted you?
+¿Cómo celebran juntos los logros importantes en tu familia?| How do you celebrate important achievements together in your family?
