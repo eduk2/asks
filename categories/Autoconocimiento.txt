@@ -27,3 +27,18 @@
 ¿Qué te motiva a seguir adelante en los momentos difíciles? | What motivates you to keep going in tough times?
 ¿Qué habilidades personales crees que deberías mejorar? | What personal skills do you think you should improve?
 ¿Cómo manejas el estrés y la presión? | How do you handle stress and pressure?
+¿Qué actividad te hace perder la noción del tiempo y por qué? | What activity makes you lose track of time and why?
+¿Qué cualidad admiras más en otras personas y por qué? | What quality do you admire most in other people and why?
+¿Qué te hace sentir vulnerable y cómo lidias con ello? | What makes you feel vulnerable and how do you deal with it?
+¿Qué te gustaría perdonarte a ti mismo? | What would you like to forgive yourself for?
+¿Qué papel juegan tus sueños en tu vida? | What role do your dreams play in your life?
+¿Qué cambio en tu vida ha sido el más desafiante y cómo lo superaste? | What change in your life has been the most challenging and how did you overcome it?
+¿Qué harías diferente si pudieras vivir tu vida de nuevo? | What would you do differently if you could live your life again?
+¿Qué aspecto de tu vida te hace sentir más agradecido? | What aspect of your life makes you feel most grateful?
+¿Qué lección importante aprendiste de una relación pasada? | What important lesson did you learn from a past relationship?
+¿Qué te gustaría mejorar en tu vida diaria y por qué? | What would you like to improve in your daily life and why?
+¿Qué haces para mantener un equilibrio entre tu vida personal y profesional? | What do you do to maintain a balance between your personal and professional life?
+¿Qué te inspira a ser una mejor persona cada día? | What inspires you to be a better person every day?
+¿Qué significa para ti vivir una vida auténtica? | What does living an authentic life mean to you?
+¿Qué pensamiento o creencia limitante te gustaría cambiar? | What limiting thought or belief would you like to change?
+¿Qué te gustaría que las personas recordaran de ti? | What would you like people to remember about you?
