@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     let categories = [];
 
-    // Función para normalizar cadenas (eliminar tildes y convertir a minúsculas)
+    // Función para normalizar cadenas (eliminar tildes, convertir a minúsculas y reemplazar espacios por guiones)
     function normalizeString(str) {
         return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/ /g, '-');
     }
@@ -70,7 +70,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const questionPromises = selectedCategories.map(category => {
             const normalizedCategory = normalizeString(category);
-            return fetch(`categories/${normalizedCategory}.txt`).then(response => response.text());
+            return fetch(`categories/${normalizedCategory}.txt`).then(response => {
+                if (!response.ok) {
+                    throw new Error(`Category file not found: ${normalizedCategory}`);
+                }
+                return response.text();
+            });
         });
 
         Promise.all(questionPromises)
