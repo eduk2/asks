@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     const category = selectedCategories[index];
                     const questions = data.split('\n').filter(line => line.trim()).map(line => {
                         const [es, en] = line.split('|');
-                        return { es: es.trim(), en: en.trim() };
+                        return { es: es?.trim() || '', en: en?.trim() || '' };
                     });
                     questionsByCategory[category] = questions;
                 });
