@@ -16,6 +16,7 @@ Si pudieras vivir en cualquier lugar del mundo, ¿dónde sería y por qué? | If
 ¿Qué deporte o actividad física te gustaría practicar y por qué? | What sport or physical activity would you like to practice and why?
 ¿Qué tipo de impacto te gustaría tener en tu comunidad? | What kind of impact would you like to have on your community?
 ¿Cuál es tu mayor aspiración espiritual o filosófica? | What is your greatest spiritual or philosophical aspiration?
+<<<<<<< HEAD:categories/Aspiraciones.txt
 ¿Qué legado te gustaría dejar para las futuras generaciones? | What legacy would you like to leave for future generations?
 Si pudieras cambiar una cosa del mundo, ¿qué sería y por qué? | If you could change one thing about the world, what would it be and why?
 ¿Qué habilidad te gustaría perfeccionar y cómo planeas hacerlo? | What skill would you like to perfect and how do you plan to do it?
@@ -31,3 +32,5 @@ Si pudieras emprender cualquier negocio, ¿cuál sería y por qué? | If you cou
 ¿Qué aspecto de tu salud te gustaría optimizar y cómo? | What aspect of your health would you like to optimize and how?
 ¿Qué relación importante te gustaría fortalecer y cómo? | What important relationship would you like to strengthen and how?
 ¿Qué te gustaría aprender sobre una cultura diferente y por qué? | What would you like to learn about a different culture and why?
+=======
+>>>>>>> 0c440d61e390e2c932d311424a2c00e97134ce41:categories/aspiraciones.txt
