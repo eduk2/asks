@@ -14,3 +14,33 @@
 ¿Qué filosofía de vida sigues y por qué? | What life philosophy do you follow and why?
 ¿Qué significa para ti ser auténtico? | What does it mean to you to be authentic?
 ¿Cómo crees que debería ser una sociedad ideal? | What do you think an ideal society should be like?
+¿Qué significa para ti el concepto de justicia? | What does the concept of justice mean to you?
+¿Cómo defines la libertad y qué importancia tiene en tu vida? | How do you define freedom and what importance does it have in your life?
+¿Cuál es tu visión sobre la naturaleza humana? | What is your view on human nature?
+¿Qué piensas sobre la existencia de un propósito divino? | What are your thoughts on the existence of a divine purpose?
+¿Qué papel juega la gratitud en tu vida filosófica? | What role does gratitude play in your philosophical life?
+¿Cómo interpretas el concepto de "ser" en la filosofía? | How do you interpret the concept of "being" in philosophy?
+¿Qué opinas sobre el relativismo moral? | What are your thoughts on moral relativism?
+¿Crees que el conocimiento es absoluto o relativo? | Do you believe knowledge is absolute or relative?
+¿Qué es la conciencia para ti y cómo influye en tus decisiones? | What is consciousness to you and how does it influence your decisions?
+¿Cómo manejas las paradojas en tu pensamiento filosófico? | How do you handle paradoxes in your philosophical thinking?
+¿Qué importancia tiene la estética en tu vida y tu filosofía? | What importance does aesthetics have in your life and philosophy?
+¿Cuál es tu opinión sobre el papel del sufrimiento en la vida? | What is your opinion on the role of suffering in life?
+¿Qué es la sabiduría para ti y cómo la buscas? | What is wisdom to you and how do you seek it?
+¿Qué papel juega la muerte en tu filosofía de vida? | What role does death play in your life philosophy?
+¿Cómo defines la justicia social y cuál es su importancia? | How do you define social justice and what is its importance?
+¿Qué opinas sobre la existencia de otras realidades o dimensiones? | What are your thoughts on the existence of other realities or dimensions?
+¿Qué es el amor para ti y cómo lo experimentas en tu vida? | What is love to you and how do you experience it in your life?
+¿Cuál es tu opinión sobre la relación entre mente y cuerpo? | What is your opinion on the mind-body relationship?
+¿Cómo interpretas la noción de identidad personal? | How do you interpret the notion of personal identity?
+¿Qué papel juega la incertidumbre en tu vida filosófica? | What role does uncertainty play in your philosophical life?
+¿Cuál es tu perspectiva sobre la naturaleza del mal? | What is your perspective on the nature of evil?
+¿Cómo integras la ciencia y la filosofía en tu visión del mundo? | How do you integrate science and philosophy into your worldview?
+¿Qué importancia tiene el diálogo en tu desarrollo filosófico? | What importance does dialogue have in your philosophical development?
+¿Qué es la belleza para ti y cómo la defines? | What is beauty to you and how do you define it?
+¿Cuál es tu postura sobre el materialismo filosófico? | What is your stance on philosophical materialism?
+¿Qué significa para ti la noción de tiempo en un sentido filosófico? | What does the notion of time mean to you in a philosophical sense?
+¿Qué papel juegan los sueños en tu entendimiento filosófico de la realidad? | What role do dreams play in your philosophical understanding of reality?
+¿Qué piensas sobre la relación entre ética y ley? | What are your thoughts on the relationship between ethics and law?
+¿Cuál es tu opinión sobre la posibilidad de la inmortalidad? | What is your opinion on the possibility of immortality?
+¿Cómo influye la filosofía en tus relaciones personales? | How does philosophy influence your personal relationships?
