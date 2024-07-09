@@ -14,3 +14,33 @@
 ¿Qué experiencia culinaria te ha sorprendido más? | What culinary experience has surprised you the most?
 ¿Cuál es la actividad más divertida que has hecho con amigos? | What is the most fun activity you've done with friends?
 ¿Qué experiencia cultural te ha impactado más y por qué? | What cultural experience has impacted you the most and why?
+¿Qué lugar has visitado que superó tus expectativas y por qué? | What place have you visited that exceeded your expectations and why?
+¿Cuál ha sido tu experiencia más aterradora y cómo la superaste? | What has been your scariest experience and how did you overcome it?
+¿Qué cosa has aprendido de un viaje y cómo ha cambiado tu perspectiva? | What have you learned from a trip and how has it changed your perspective?
+¿Cuál es el mejor regalo que has recibido y por qué fue especial? | What is the best gift you've received and why was it special?
+¿Qué evento histórico te hubiera gustado presenciar y por qué? | What historical event would you have liked to witness and why?
+¿Qué experiencia te hizo cambiar de opinión sobre algo importante? | What experience made you change your mind about something important?
+¿Cuál ha sido tu experiencia más inspiradora con la naturaleza? | What has been your most inspiring experience with nature?
+¿Qué experiencia te ha hecho sentir más orgulloso de ti mismo? | What experience has made you feel the most proud of yourself?
+¿Qué es lo más sorprendente que has aprendido de otra cultura? | What is the most surprising thing you've learned from another culture?
+¿Cuál ha sido tu experiencia más inolvidable con un animal? | What has been your most unforgettable experience with an animal?
+¿Qué experiencia te hizo sentir más conectado con otras personas? | What experience made you feel most connected with other people?
+¿Cuál es el logro personal que más te ha costado conseguir? | What is the personal achievement that has been the hardest to achieve?
+¿Qué experiencia te ha enseñado más sobre la empatía? | What experience has taught you the most about empathy?
+¿Cuál ha sido la experiencia más desafiante que has tenido en el trabajo? | What has been the most challenging experience you've had at work?
+¿Qué actividad has realizado que te sacó completamente de tu zona de confort? | What activity have you done that took you completely out of your comfort zone?
+¿Cuál ha sido el momento más feliz de tu vida y por qué? | What has been the happiest moment of your life and why?
+¿Qué experiencia te ha hecho reflexionar más profundamente sobre la vida? | What experience has made you reflect more deeply on life?
+¿Cuál es la tradición de otra cultura que has adoptado y disfrutas? | What tradition from another culture have you adopted and enjoy?
+¿Qué experiencia artística (concierto, museo, etc.) te ha emocionado más? | What artistic experience (concert, museum, etc.) has moved you the most?
+¿Qué experiencia te ha enseñado más sobre el perdón? | What experience has taught you the most about forgiveness?
+¿Qué viaje te gustaría repetir y por qué? | What trip would you like to repeat and why?
+¿Cuál ha sido tu experiencia más educativa fuera del aula? | What has been your most educational experience outside the classroom?
+¿Qué evento te ha hecho reír más de lo que esperabas? | What event has made you laugh more than you expected?
+¿Qué experiencia gastronómica en el extranjero te ha encantado? | What foreign culinary experience have you loved?
+¿Cuál ha sido tu experiencia más gratificante ayudando a alguien? | What has been your most rewarding experience helping someone?
+¿Qué experiencia te ha hecho apreciar más tu hogar o tu país? | What experience has made you appreciate your home or country more?
+¿Qué festival o celebración te ha dejado el mejor recuerdo? | What festival or celebration has left you with the best memory?
+¿Cuál ha sido tu experiencia más sorprendente aprendiendo algo nuevo? | What has been your most surprising experience learning something new?
+¿Qué experiencia al aire libre te ha impactado más y por qué? | What outdoor experience has impacted you the most and why?
+¿Cuál ha sido tu experiencia más enriquecedora con un desconocido? | What has been your most enriching experience with a stranger?
