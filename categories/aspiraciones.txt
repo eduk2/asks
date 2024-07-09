@@ -32,5 +32,18 @@ Si pudieras emprender cualquier negocio, ¿cuál sería y por qué? | If you cou
 ¿Qué aspecto de tu salud te gustaría optimizar y cómo? | What aspect of your health would you like to optimize and how?
 ¿Qué relación importante te gustaría fortalecer y cómo? | What important relationship would you like to strengthen and how?
 ¿Qué te gustaría aprender sobre una cultura diferente y por qué? | What would you like to learn about a different culture and why?
-=======
->>>>>>> 0c440d61e390e2c932d311424a2c00e97134ce41:categories/aspiraciones.txt
+Si pudieras tener una conversación con cualquier persona en la historia, ¿quién sería y de qué hablarías? | If you could have a conversation with anyone in history, who would it be and what would you talk about?
+¿Qué innovación tecnológica te gustaría ver en el futuro y por qué? | What technological innovation would you like to see in the future and why?
+¿Qué te gustaría hacer para promover la igualdad y la justicia social? | What would you like to do to promote equality and social justice?
+¿Qué te gustaría aprender sobre el funcionamiento del universo? | What would you like to learn about the workings of the universe?
+¿Cuál es tu mayor aspiración en términos de desarrollo personal? | What is your greatest aspiration in terms of personal development?
+¿Qué proyecto emprendedor te gustaría lanzar y qué impacto esperas que tenga? | What entrepreneurial project would you like to launch and what impact do you expect it to have?
+¿Qué cambios te gustaría implementar en tu estilo de vida para ser más sostenible? | What changes would you like to implement in your lifestyle to be more sustainable?
+Si pudieras dominar un instrumento musical, ¿cuál sería y por qué? | If you could master a musical instrument, which one would it be and why?
+¿Qué sueño tienes en relación a contribuir al avance de la ciencia? | What dream do you have related to contributing to the advancement of science?
+¿Qué impacto te gustaría tener en tu industria o campo profesional? | What impact would you like to have in your industry or professional field?
+Si pudieras escribir un guion para una película, ¿de qué trataría? | If you could write a screenplay for a movie, what would it be about?
+¿Qué habilidad de comunicación te gustaría mejorar y cómo planeas hacerlo? | What communication skill would you like to improve and how do you plan to do it?
+¿Qué experiencia cultural te gustaría vivir y por qué? | What cultural experience would you like to have and why?
+¿Qué aspiración tienes en relación a tu bienestar mental y emocional? | What aspiration do you have regarding your mental and emotional well-being?
+Si pudieras apoyar cualquier iniciativa educativa, ¿cuál sería y cómo contribuirías? | If you could support any educational initiative, what would it be and how would you contribute?
