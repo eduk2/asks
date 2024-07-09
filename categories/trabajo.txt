@@ -16,3 +16,33 @@
 ¿Cómo gestionas el trabajo en equipo y las dinámicas de grupo? | How do you manage teamwork and group dynamics?
 ¿Qué impacto esperas tener en tu campo profesional a largo plazo? | What long-term impact do you hope to have in your professional field?
 ¿Qué es lo que te hace sentir más satisfecho al final de un día laboral? | What makes you feel most satisfied at the end of a workday?
+¿Qué es lo que más valoras en un ambiente de trabajo? | What do you value most in a work environment?
+¿Qué tipo de proyectos te motivan más? | What type of projects motivate you the most?
+¿Qué características buscas en un equipo de trabajo ideal? | What characteristics do you look for in an ideal work team?
+¿Cómo manejas las críticas constructivas en el trabajo? | How do you handle constructive criticism at work?
+¿Cuál ha sido tu mayor desafío laboral y cómo lo superaste? | What has been your biggest work challenge and how did you overcome it?
+¿Qué opinas sobre el teletrabajo y cómo afecta tu productividad? | What are your thoughts on remote work and how does it affect your productivity?
+¿Qué herramientas o tecnologías te resultan indispensables para tu trabajo? | What tools or technologies are indispensable for your work?
+¿Cómo te preparas para una presentación importante o una reunión clave? | How do you prepare for an important presentation or key meeting?
+¿Qué te gustaría aprender o mejorar en tu carrera durante el próximo año? | What would you like to learn or improve in your career over the next year?
+¿Cómo gestionas tu tiempo y prioridades en el trabajo? | How do you manage your time and priorities at work?
+¿Qué te gustaría que tus compañeros de trabajo aprendieran de ti? | What would you like your coworkers to learn from you?
+¿Qué logros te gustaría alcanzar en los próximos cinco años? | What achievements would you like to reach in the next five years?
+¿Cómo describes tu estilo de liderazgo o colaboración en equipo? | How would you describe your leadership or team collaboration style?
+¿Qué es lo más valioso que has aprendido de tus mentores o colegas? | What is the most valuable thing you've learned from your mentors or colleagues?
+¿Cómo defines el éxito profesional para ti? | How do you define professional success for yourself?
+¿Qué importancia tiene la ética en tu trabajo diario? | How important is ethics in your daily work?
+¿Qué tipo de capacitación o desarrollo profesional buscas constantemente? | What kind of training or professional development do you constantly seek?
+¿Cómo manejas la presión de los plazos ajustados o proyectos urgentes? | How do you handle the pressure of tight deadlines or urgent projects?
+¿Qué proyectos personales o hobbies complementan tu carrera profesional? | What personal projects or hobbies complement your professional career?
+¿Qué piensas sobre la importancia de la diversidad e inclusión en el lugar de trabajo? | What are your thoughts on the importance of diversity and inclusion in the workplace?
+¿Cómo equilibras la ambición profesional con el bienestar personal? | How do you balance professional ambition with personal well-being?
+¿Cuál ha sido el mejor consejo profesional que has recibido y cómo lo aplicas? | What has been the best professional advice you've received and how do you apply it?
+¿Qué habilidades blandas consideras cruciales para tu éxito laboral? | What soft skills do you consider crucial for your work success?
+¿Cómo te aseguras de mantener la motivación en proyectos a largo plazo? | How do you ensure you stay motivated on long-term projects?
+¿Qué importancia tiene la retroalimentación para tu crecimiento profesional? | How important is feedback for your professional growth?
+¿Cómo te recuperas después de un fracaso o contratiempo laboral? | How do you recover after a work failure or setback?
+¿Qué características crees que te hacen destacar en tu campo? | What characteristics do you think make you stand out in your field?
+¿Cómo te adaptas a los cambios en tu industria o entorno laboral? | How do you adapt to changes in your industry or work environment?
+¿Qué es lo que más disfrutas de trabajar en tu industria actual? | What do you enjoy the most about working in your current industry?
+¿Cómo te ves profesionalmente en diez años y qué pasos estás tomando para llegar allí? | How do you see yourself professionally in ten years and what steps are you taking to get there?
